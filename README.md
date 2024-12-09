@@ -13,6 +13,7 @@ This API provides an endpoint, and the application is built using Node.js with t
 
 ### **2. api_medisight**
 - `controllers/` The **controllers** folder contains files such as `articleController`, `faskesController`, `medicalHistoryController`, and `obatController`.
+- `routes/`  The **routes** folder contains a `routes.js` file, which includes the implementation of `GET`, `POST`, `PUT`, and `DELETE` requests for each API.
 
 
 
