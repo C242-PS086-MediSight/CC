@@ -6,9 +6,13 @@ This API provides an endpoint, and the application is built using Node.js with t
 ---
 ## **Repository Structure**
 
-### **Database SQL**
+### **1. Database SQL**
 - **`medisight.sql`**  
   This SQL database contains tables such as `users`, `articles`, `health_facilities`, `wounds`, `medical_history`, and `medicines`.
+
+
+### **2. api_medisight**
+- `controllers/` The **controllers** folder contains files such as `articleController`, `faskesController`, `medicalHistoryController`, and `obatController`.
 
 
 
