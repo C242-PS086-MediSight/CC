@@ -14,6 +14,16 @@ This API provides an endpoint, and the application is built using Node.js with t
 ### **2. api_medisight**
 - `controllers/` The **controllers** folder contains files such as `articleController`, `faskesController`, `medicalHistoryController`, and `obatController`.
 - `routes/`  The **routes** folder contains a `routes.js` file, which includes the implementation of `GET`, `POST`, `PUT`, and `DELETE` requests for each API.
+- `db.js` The **db.js** file contains the connection setup with Cloud SQL, enabling seamless communication between the application and the database.
+
+### **3. Cloud Architecture**  
+
+The **cloud architecture** includes the design of user requests while interacting with the application, detailing how requests are processed and services are interconnected.
+
+### **4. Calculation GCP**  
+
+The **calculation for GCP** includes all resources used in the implementation of Google Cloud Platform, such as databases, storage, and other services required for the application
+
 
 
 
