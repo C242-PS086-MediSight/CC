@@ -18,13 +18,15 @@ This API provides an endpoint, and the application is built using Node.js with t
 
 ### **3. Cloud Architecture**  
 
-The **cloud architecture** includes the design of user requests while interacting with the application, detailing how requests are processed and services are interconnected.
+The **`cloud architecture`** includes the design of user requests while interacting with the application, detailing how requests are processed and services are interconnected.
 
 ### **4. Calculation GCP**  
 
-The **calculation for GCP** includes all resources used in the implementation of Google Cloud Platform, such as databases, storage, and other services required for the application
+The **`calculation for GCP`** includes all resources used in the implementation of Google Cloud Platform, such as databases, storage, and other services required for the application
 
+### **5. Endpoint Documentation**  
 
+The **`Endpoint documentation`** contains detailed information about the API endpoints, including their purpose, HTTP methods, request parameters, response formats, and example usage.
 
 
 
